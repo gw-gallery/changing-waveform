@@ -2,6 +2,8 @@
 
 The purpose of this demo is to illustrate how observed gravitational-wave signals depend on binary masses and distances, and thus how these quantities can be **measured** from gravitational-wave data.
 
+## Reference waveform
+
 The figure below (`reference_waveform.jpg`) shows an example gravitational waveform, corresponding to a $40+40\\,M_\odot$ binary at a luminosity distance of $D_L = 1\\,\mathrm{Gpc}$:
 
 <div align="center">
@@ -19,3 +21,14 @@ The frequency derivative of the signal (aka the rate of the gravitational-wave "
 $$
 \dot f \propto [M_c(1+z)]^{5/3}
 $$
+
+## Changing the redshifted chirp mass
+
+Dialing the redshifted chirp mass changes both the predicted amplitude and frequency evolution of the signal:
+
+<div align="center">
+	<img src="https://github.com/gw-gallery/changing-waveform/assets/11800515/496b30f7-bb03-46bf-9bd6-3bab70a83f59" width=600pt>
+</div>
+
+
+
